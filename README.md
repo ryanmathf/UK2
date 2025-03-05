@@ -1,1 +1,23 @@
-# UK2
+- Central Powers intervention in the Russian Civil War (March 1918)
+- Treaty of Brest-Litovsk (Ukraine–Central Powers)
+- Operation Faustschlag
+- Battle of Kruty
+- Kiev Arsenal January Uprising
+
+- Central Powers intervention in the Russian Civil War (March 1918)
+- Ukrainian–Soviet War (1917-1918)
+- Battle of Zhmerynka
+- Battle of Kruty
+- Treaty of Brest-Litovsk (Ukraine–Central Powers)
+- Operação Faustschlag
+- Battle of Sarny (1918)
+- Battle of Zhytomyr (1918)
+- Battle of Berdychiv (1918)
+- Battle of Irpin (1918)
+- Recapture of Kiev (March 1, 1918)
+- Crimea Operation (1918)
+- Battle of Donbas (1918)
+- Battle of Melitopol (1918)
+- Battle of Perekop (1918)
+- Battle of Yakymivka (1918)
+- Battle of Chonhar Bridge (1918)
