@@ -13,6 +13,7 @@
 - Battle of Sarny (1918)
 - Battle of Zhytomyr (1918)
 - Battle of Berdychiv (1918)
+- Battle of Kamianets-Podilskyi (1918)
 - Battle of Irpin (1918)
 - Recapture of Kiev (March 1, 1918)
 - Crimea Operation (1918)
@@ -21,3 +22,8 @@
 - Battle of Perekop (1918)
 - Battle of Yakymivka (1918)
 - Battle of Chonhar Bridge (1918)
+- Battle of Dzhankoi (1918)
+- Capture of Simferopol (1918)
+- Capture of Bakhchysarai (1918)
+- Battle of Sevastopol (1918)
+- First Winter Campaign
