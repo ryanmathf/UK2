@@ -31,6 +31,7 @@
 - Kiev Campaign (1919)
 - Proskuriv Operation (1919)
 - Grishino Operation
+- Lviv Operation
 - Summer Offensive (1919)
 - Battle of Kamianets-Podilskyi (1919)
 - Battle of Vapnyarka
