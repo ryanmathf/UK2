@@ -4,9 +4,13 @@
 - Battle of Kruty
 - Kiev Arsenal January Uprising
 
+- Kiev November uprising (1917)
+- Odesa Arsenal November Uprising
+- Kiev Arsenal January Uprising
 - Central Powers intervention in the Russian Civil War (March 1918)
 - Ukrainian–Soviet War (1917-1918)
 - Battle of Zhmerynka
+- Battle of the station of Lozova (1917)
 - Battle of Kruty
 - Treaty of Brest-Litovsk (Ukraine–Central Powers)
 - Operação Faustschlag
@@ -26,4 +30,15 @@
 - Capture of Simferopol (1918)
 - Capture of Bakhchysarai (1918)
 - Battle of Sevastopol (1918)
+- Battle of Trubizh River
+- Battle of Zaporizhzhia
+- Kurenivka Uprising
+- Battle of Kamianets-Podilskyi (1919)
+- Battle of Vapnyarka
+- Battle of Boryspil (1920)
+- 1919 Soviet invasion of Ukraine
 - First Winter Campaign
+- Battle of Voznesensk (1920)
+- Battle of Sydoriv (1920)
+- Battle of Proskuriv
+- Battle of Lypovets
