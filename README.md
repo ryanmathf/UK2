@@ -1,9 +1,3 @@
-- Central Powers intervention in the Russian Civil War (March 1918)
-- Treaty of Brest-Litovsk (Ukraine–Central Powers)
-- Operation Faustschlag
-- Battle of Kruty
-- Kiev Arsenal January Uprising
-
 - Kiev November uprising (1917)
 - Odesa Arsenal November Uprising
 - Kiev Arsenal January Uprising
@@ -13,7 +7,7 @@
 - Battle of the station of Lozova (1917)
 - Battle of Kruty
 - Treaty of Brest-Litovsk (Ukraine–Central Powers)
-- Operação Faustschlag
+- Operation Faustschlag
 - Battle of Sarny (1918)
 - Battle of Zhytomyr (1918)
 - Battle of Berdychiv (1918)
@@ -30,9 +24,14 @@
 - Capture of Simferopol (1918)
 - Capture of Bakhchysarai (1918)
 - Battle of Sevastopol (1918)
+- Battle of Horlivka (1918)
 - Battle of Trubizh River
 - Battle of Zaporizhzhia
 - Kurenivka Uprising
+- Kiev Campaign (1919)
+- Proskuriv Operation (1919)
+- Grishino Operation
+- Summer Offensive (1919)
 - Battle of Kamianets-Podilskyi (1919)
 - Battle of Vapnyarka
 - Battle of Boryspil (1920)
@@ -42,3 +41,4 @@
 - Battle of Sydoriv (1920)
 - Battle of Proskuriv
 - Battle of Lypovets
+- Battle of the station of Kryzhopil (1920)
